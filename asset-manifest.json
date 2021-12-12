@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SUSHI/static/css/main.332ee4b9.chunk.css",
+    "main.css": "/SUSHI/static/css/main.5fd2a679.chunk.css",
     "main.js": "/SUSHI/static/js/main.c60d2c0c.chunk.js",
     "main.js.map": "/SUSHI/static/js/main.c60d2c0c.chunk.js.map",
     "runtime-main.js": "/SUSHI/static/js/runtime-main.2434058c.js",
@@ -8,13 +8,13 @@
     "static/js/2.361db6bf.chunk.js": "/SUSHI/static/js/2.361db6bf.chunk.js",
     "static/js/2.361db6bf.chunk.js.map": "/SUSHI/static/js/2.361db6bf.chunk.js.map",
     "index.html": "/SUSHI/index.html",
-    "static/css/main.332ee4b9.chunk.css.map": "/SUSHI/static/css/main.332ee4b9.chunk.css.map",
+    "static/css/main.5fd2a679.chunk.css.map": "/SUSHI/static/css/main.5fd2a679.chunk.css.map",
     "static/js/2.361db6bf.chunk.js.LICENSE.txt": "/SUSHI/static/js/2.361db6bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2434058c.js",
     "static/js/2.361db6bf.chunk.js",
-    "static/css/main.332ee4b9.chunk.css",
+    "static/css/main.5fd2a679.chunk.css",
     "static/js/main.c60d2c0c.chunk.js"
   ]
 }
