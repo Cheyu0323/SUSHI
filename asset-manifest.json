@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SUSHI/static/css/main.332ee4b9.chunk.css",
-    "main.js": "/SUSHI/static/js/main.19ed5cb8.chunk.js",
-    "main.js.map": "/SUSHI/static/js/main.19ed5cb8.chunk.js.map",
+    "main.js": "/SUSHI/static/js/main.4f384edd.chunk.js",
+    "main.js.map": "/SUSHI/static/js/main.4f384edd.chunk.js.map",
     "runtime-main.js": "/SUSHI/static/js/runtime-main.2434058c.js",
     "runtime-main.js.map": "/SUSHI/static/js/runtime-main.2434058c.js.map",
     "static/js/2.24299b39.chunk.js": "/SUSHI/static/js/2.24299b39.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2434058c.js",
     "static/js/2.24299b39.chunk.js",
     "static/css/main.332ee4b9.chunk.css",
-    "static/js/main.19ed5cb8.chunk.js"
+    "static/js/main.4f384edd.chunk.js"
   ]
 }
