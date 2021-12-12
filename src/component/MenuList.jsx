@@ -6,6 +6,8 @@ import "../style/menu.scss";
 import "../style/header.scss";
 import SuccessPage from "./SuccessPage";
 import gsap from "gsap";
+import { AiFillShopping, AiFillBackward } from "react-icons/ai"
+
 const MenuList = ({ menuRef, endOrder }) => {
     const itemRef = useRef();
     const menuListRef = useRef();
@@ -424,7 +426,7 @@ const MenuList = ({ menuRef, endOrder }) => {
                                 <div
                                     className="shop-icon"
                                     onClick={() => switchPage(true)}
-                                ></div>
+                                ><AiFillShopping style={{height: "100%", width: "100%"}} /></div>
                             </div>
                             <div className="type">
                                 <div
@@ -488,7 +490,7 @@ const MenuList = ({ menuRef, endOrder }) => {
                             <div
                                 className="list-icon"
                                 onClick={() => switchPage(false)}
-                            ></div>
+                            ><AiFillBackward style={{height: "100%", width: "100%"}} /></div>
                         </div>
                         <div className="transports">
                             <div
