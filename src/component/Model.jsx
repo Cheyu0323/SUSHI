@@ -1,5 +1,5 @@
 import * as THREE from "three";
-import React, { Suspense, useState } from "react";
+import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import {
     PerspectiveCamera,
