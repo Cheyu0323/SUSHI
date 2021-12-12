@@ -112,7 +112,7 @@ const Model = ({ orbitRef, cameraRef, modelRef }) => {
                     <Light />
                     <Plane />
                     <mesh ref={modelRef}>
-                        <LoadModel modelPath={"/model/scene.gltf"} />
+                        <LoadModel modelPath={"./model/scene.gltf"} />
                     </mesh>
                 </Canvas>
             </Suspense>
