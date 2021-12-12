@@ -336,7 +336,7 @@ const MenuList = ({ menuRef, endOrder }) => {
             food_name: "Sushi Bento Box #3",
             food_japanese: "デラックスセット",
             price: "16.5",
-            img_url: "../img/3560_s.png",
+            img_url: "./img/3560_s.png",
         },
     ];
     const addOrderData = (data) => {
