@@ -3,6 +3,7 @@ import Model from "./component/Model";
 import Header from "./component/Header";
 import OrderBtn from "./component/OrderBtn";
 import MenuList from "./component/MenuList";
+import TipInfo from "./component/TipInfo";
 import gsap from "gsap";
 const App = () => {
 	const headerRef = useRef();
@@ -216,6 +217,7 @@ const App = () => {
 			</div>
 			<OrderBtn startBtnRef={startBtnRef} onclick={startOrder} />
 			<MenuList menuRef={menuRef} endOrder={endOrder} />
+			<TipInfo />
 		</div>
 	);
 };

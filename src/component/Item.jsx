@@ -16,7 +16,7 @@ const Item = ({ data, onAddData }) => {
     return (
         <div className="item" ref={itemRef}>
             <div className="image">
-                <img src={data.img_url} alt={data.food_name} />
+                <img src={process.env.PUBLIC_URL + data.img_url} alt={data.food_name} />
             </div>
             <div className="info">
                 <div>
